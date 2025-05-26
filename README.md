@@ -10,7 +10,7 @@ I'm a passionate **Full Stack Developer** with expertise in crafting robust and 
 - **🔧 Tools & Technologies**: ReactJS, NodeJS, ExpressJS, MongoDB, SQL, Oracle, HTML5, CSS3, Maven.
 - **🎯 Interests**: Problem-solving, optimizing applications, and mastering scalable architectures.
 - **🌐 Portfolio**: [nehathakur18.vercel.app](https://nehathakur18.vercel.app)
-- **📂 LinkedIn**: [linkedin.com/in/jadav-keshav](https://www.linkedin.com/in/jadav-keshav)
+- **📂 LinkedIn**: [linkedin.com/in/jadav-keshav](https://www.linkedin.com/in/neha-thakur1812/)
 - **📂 GitHub**: [github.com/nehathakur18](https://github.com/nehathakur18)
 - **📂 LeetCode**: [leetcode.com/nehathakur18](https://leetcode.com/nehathakur18)
 
